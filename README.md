@@ -47,3 +47,7 @@ yt-dlp: For downloading and extracting audio from YouTube videos.
 asyncio: For asynchronous programming.
 
 dotenv: For loading environment variables from a .env file.
+
+here is an image of the bot in action
+![image](https://github.com/user-attachments/assets/b0ce3145-b5cb-4361-98bb-94bb14c852e0)
+
